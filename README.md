@@ -1,6 +1,10 @@
 # SFML-IMGUI Project setup
 
 This git repo will help you set you your sfml-imgui environment with a few commands. Treat this as a templete for project that may require this, because setting it up could be cumbersome.
+This set up makes use of:
+* sfml = 3.0.0
+* ImGui = 1.91.1-docked
+* sfml-imgui = v3.0
 
 # Setup
 The setup requires you to have [cmake](https://cmake.org/) installed. The below is the setup for your project:
